@@ -6,7 +6,7 @@
 
 </br>
 
-<img align="center class="osi-layers" src="./assets/tugas1/osi-layer.jpeg" />
+<img align="center" class="osi-layers" src="./assets/tugas1/osi-layer.jpeg" />
 
 <p>OSI adalah Open System Interconnection yang memiliki arti sebagai model referensi dari sebuah kerangka yang bersifat konseptual. Namun, sekarang sudah berkembang dan menjadi sebuah standarisasi khusus yang berkaitan dengan koneksi komputer. </p>
 </br>
