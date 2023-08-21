@@ -15,11 +15,30 @@
 
 <p>OSI Layers dibagi menjadi 7 layer seperti</p>
 <ul>
-  <li>Aplication Layers</li>
+  <li>Application Layers</li>
   <li>Presentation Layers</li>
   <li>Session Layers</li>
   <li>Transport Layers</li>
   <li>Network Layers</li>
   <li>Data Link Layers</li>
   <li>Physical Layers</li>
+</ul>
+
+</br></br>
+
+<ul>
+  <li>
+    Application Layers
+    <div>
+      Application layer pada OSI adalah pusat terjadinya suatu interaksi antara user dengan aplikasi yang bekerja menggunakan fungsionalitas sebuah jaringan. Lapisan ini menjadi layer paling atas dari model OSI. Contoh beberapa protokol yang ada di layer application pada OSI adalah HTTP, FTP, SMTP, dan lain-lain. 
+    </div>
+  </li>
+  <li>
+    Presentation Layers
+    <div>
+      Lapisan Presentation berfungsi untuk mengidentifikasi sintaks yang di pakai suatu host jaringan untuk berkomunikasi. Layer ini perlu memberi enkripsi serta deskripsi data yang nantinya akan di pakai dalam layer application.
+      </br>
+      Pada layer presentation, data akan ter-enkripsi dan dekripsi otomatis melalui sistem. Beberapa protokol yang berada pada layer ini adalah MIME, TLS, SSL, dan lainnya. 
+    </div>
+  </li>
 </ul>
