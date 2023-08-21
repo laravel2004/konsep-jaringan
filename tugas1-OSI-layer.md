@@ -1,9 +1,3 @@
-<style>
-  .osi-layers {
-    margin : 100px
-  }
-</style>
-
 <h1>Pengenalan Internet Layers OSI</h1>
 </br>
 <p>Nama : Agung Dwi Nugroho</p>
