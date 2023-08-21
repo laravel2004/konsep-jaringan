@@ -26,6 +26,8 @@
 
 </br></br>
 
+<h3>Penjelasan Masing Masing Layers</h3>
+
 <ul>
   <li>
     Application Layers
@@ -33,6 +35,7 @@
       Application layer pada OSI adalah pusat terjadinya suatu interaksi antara user dengan aplikasi yang bekerja menggunakan fungsionalitas sebuah jaringan. Lapisan ini menjadi layer paling atas dari model OSI. Contoh beberapa protokol yang ada di layer application pada OSI adalah HTTP, FTP, SMTP, dan lain-lain. 
     </div>
   </li>
+  </br>
   <li>
     Presentation Layers
     <div>
@@ -41,12 +44,14 @@
       Pada layer presentation, data akan ter-enkripsi dan dekripsi otomatis melalui sistem. Beberapa protokol yang berada pada layer ini adalah MIME, TLS, SSL, dan lainnya. 
     </div>
   </li>
+  </br>
   <li>
     Session Layers
     <div>
       Layer session memiliki fungsi untuk mengendalikan dialog maupun melakukan pengelolaan terhadap koneksi suatu komputer. Bahkan layer ini juga bisa melakukan pemutusan koneksi internet pada suatu komputer. Contoh protokol yang berada di layer ini adalah NFS, RTP, SMB, dan lainnya. 
     </div>
   </li>
+  </br>
   <li>
     Transport Layers
     <div>
@@ -60,18 +65,21 @@
       Dengan layer ini, data bisa disalurkan dari server menuju ke pengguna tanpa adanya gangguan
     </div>
   </li>
+  </br>
   <li>
     Network Layers
     <div>
       Layer network pada OSI ini bertugas untuk mendefinisikan alamat IP sehingga setiap komputer dapat saling terkoneksi dalam satu jaringan. Fungsi lainnya adalah melaksanakan proses routing dan membuat header untuk setiap paket data yang ada
     </div>
   </li>
+  </br>
   <li>
     Data Link Layers
     <div>
       Fungsi utama dari data link layer adalah untuk memeriksa bila terjadi kesalahan dalam menyalurkan transmisi terhadap bit data. Dimana kesalahan tersebut kemungkinan besar terjadi di layer pertama. Pada layer ini juga terjadi koreksi kesalahan, pengalamatan hardware pada MAC address, dan flow control.
     </div>
   </li>
+  </br>
   <li>
     Physical Layers
     <div>
