@@ -1,0 +1,22 @@
+node to node : pertukaran data antara dua perangkat dalam jaringan tanpa mempertimbangkan proses yang berjalan didalamnya,
+		(berjalankan dilayers data link dengan satu jaringan yang sama)
+
+host to host : (berjalan di layers network)
+
+proses to proses : (berjalan di layers transport layers)
+
+Socket Addres = IP Addres + Port Addres
+
+checksum mengecek integrity data 
+
+
+UDP connectionless queques = FIFO
+TCP connection oriented 
+
+
+1. Connection Establisment, 
+	flag client : syn
+	flag server : ack
+	
+2. Data Transfer, 
+3. Connection Tremination
