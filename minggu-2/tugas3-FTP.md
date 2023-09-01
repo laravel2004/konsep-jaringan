@@ -26,7 +26,7 @@
 
 <br/>
 <h2>Penjelasan Three Way HandShaking</h2>
-<img src="./assets/tugas2/handshaking.jpeg" alt="three-way-handshaking" />
+<img src="./../assets/tugas2/handshaking.jpeg" alt="three-way-handshaking" />
 <ul>
   <li>
     <h3>Apa itu Three Way HandShaking?</h3>
